@@ -13,7 +13,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="" alt="Himalayan Cafe Logo">
+            <img src="images/logo2.png" alt="Himalayan Cafe Logo">
         </div>
         <nav>
             <ul>
