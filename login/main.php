@@ -24,7 +24,7 @@ include 'header.php';
     margin: 0;
 }
 
-.welcome,.menu,.locations {
+.welcome,.menu,.locations,.intro {
     text-align: center;
     padding: 50px 20px;
 } 

@@ -84,11 +84,11 @@ nav ul li a:active {
         </div>
         <nav>
             <ul>
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">ABOUT</a></li>
-                <li><a href="#">LOCATION</a></li>
-                <li><a href="#">REVIEW</a></li>
-                <li><a href="#">CONTACT</a></li>
+                <li><a href="main.php">HOME</a></li>
+                <li><a href="#about">ABOUT</a></li>
+                <li><a href="#location">LOCATION</a></li>
+                <li><a href="#review">REVIEW</a></li>
+                <li><a href="#contact">CONTACT</a></li>
                 <li><a href="#">LOGIN</a></li>
             </ul>
         </nav>
