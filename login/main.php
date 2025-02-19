@@ -239,7 +239,7 @@ button a {
 <section class="intro">
         <h1>"Where every sip feels like home."</h1>
         <p><b>Come for the coffee, stay for the vibe!</b></p>
-        <img src="images/coffee-sidebar.jpg" alt="a cup of coffee">
+        <img src="..//images/coffee-sidebar.jpg" alt="a cup of coffee">
     </section>
     <section class="welcome" id="about">
         <h2>WELCOME TO HIMALAYAN CAFE</h2>
@@ -262,22 +262,22 @@ button a {
         <p>A few of our winter favourites...</p>
         <div class="drinks">
             <div class="drink">
-                <img src="images/COFFEE1.png" alt="Caramel Creme">
+                <img src="..//images/COFFEE1.png" alt="Caramel Creme">
                 <h3>Caramel Creme</h3>
                 <p><b>€21.25</b></p>
             </div>
             <div class="drink">
-                <img src="images/COFFEE2.png" alt="Honey Oat Milk Latte">
+                <img src="..//images/COFFEE2.png" alt="Honey Oat Milk Latte">
                 <h3>Honey Oat Milk Latte</h3>
                 <p><b>€24.99</b></p>
             </div>
             <div class="drink">
-                <img src="images/COFFEE3.png" alt="Mocha Latte">
+                <img src="..//images/COFFEE3.png" alt="Mocha Latte">
                 <h3>Mocha Latte</h3>
                 <p><b>€6.20</b></p>
             </div>
             <div class="drink">
-                <img src="images/COFFEE4.png" alt="Paralines & Cream Latte">
+                <img src="..//images/COFFEE4.png" alt="Paralines & Cream Latte">
                 <h3>Classic Hot Chocolate</h3>
                 <p><b>€5.50</b></p>
             </div>
@@ -287,19 +287,19 @@ button a {
     <section class="locations" id="locations">
         <h2>LOCATIONS</h2>
         <div class="location">
-            <img src="images/Cafe1.jpg" alt="Cafe Location">
+            <img src="..//images/Cafe1.jpg" alt="Cafe Location">
             <p>Merikannontie 8, 00260 Helsinki</p>
         </div>
         <div class="location">
-            <img src="images/Cafe2.jpg" alt="Cafe Location">
+            <img src="..//images/Cafe2.jpg" alt="Cafe Location">
             <p>Eerikinnkatu 9, 00100 Helsinki</p>
         </div>
         <div class="location">
-            <img src="images/Cafe3.jpg" alt="Cafe Location">
+            <img src="..//images/Cafe3.jpg" alt="Cafe Location">
             <p>Ojakatu 2, 33100 Tampere</p>
         </div>
         <div class="location">
-            <img src="images/Cafe4.jpg" alt="Cafe Location">
+            <img src="..//images/Cafe4.jpg" alt="Cafe Location">
             <p>Pispankatu 30, 33240 Tampere</p>
         </div>
     </section>
