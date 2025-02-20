@@ -92,7 +92,7 @@ nav ul li a:active {
                 <li><a href="..//reservation/reservation.php">RESERVATION</a></li>
                 <li><a href="#about">ABOUT</a></li>
                 <li><a href="#review">REVIEW</a></li>
-                <li><a href="#">FEEDBACK</a></li>
+                <li><a href="..//feedback/index.php">FEEDBACK</a></li>
                 <li><a href="#contact">CONTACT</a></li>
                 <li><a href="main.php">LOGOUT</a></li>
             </ul>
