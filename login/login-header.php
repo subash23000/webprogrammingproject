@@ -87,7 +87,7 @@ nav ul li a:active {
             <ul>
                 <li><a href="dashboard.php">HOME</a></li>
                 <li><a href="menu.php">MENU</a></li>
-                <li><a href="#">ORDER</a></li>
+                <li><a href="..//order/order.php">ORDER</a></li>
                 <li><a href="#locations">LOCATION</a></li>
                 <li><a href="#">RESERVATION</a></li>
                 <li><a href="#about">ABOUT</a></li>

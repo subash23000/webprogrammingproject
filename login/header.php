@@ -7,7 +7,7 @@
         <?php echo $title; ?>
     </title>
     <style>
-        header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;

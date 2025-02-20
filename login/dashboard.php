@@ -340,11 +340,11 @@ button a {
         
         
     </section>
-    <div>
+    <!-- <div>
             <button id="back-to-top" title="Back to Top">
                 <i class="one">Back To Top</i>
             </button>
-        </div>
+        </div> -->
         
 </main>
 
