@@ -96,6 +96,29 @@ button a {
 .reviews h2 {
     color: #ff8800;
 }
+.up-arrow {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #007bff;
+    padding: 10px;
+    border-radius: 50%;
+}
+.up-arrow a {
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+.up-arrow:hover {
+    background: #0056b3;
+    transform: scale(1.1);
+}
 /*  */
 
 @media (max-width: 769px) {
@@ -144,6 +167,7 @@ button a {
 }
 
 </style>
+<script src="java.java"></script>
 
 <main>
 <section class="intro">
@@ -229,6 +253,11 @@ button a {
         </div>
         
     </section>
+    <div class="up-arrow">
+        <a href="#" class="down">
+            <i class="bx bx-up-arrow-alt">↑</i>
+        </a>
+    </div>
 </main>
 
 <?php

@@ -192,20 +192,31 @@ button a {
 .reviews h2 {
     color: #ff8800;
 }
-#back-to-top:hover {
-    display: none;
+
+.up-arrow {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #007bff;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    opacity: 0.8;
-    z-index: 1000;
+    background: #007bff;
+    padding: 10px;
+    border-radius: 50%;
 }
+.up-arrow a {
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+.up-arrow:hover {
+    background: #0056b3;
+    transform: scale(1.1);
+}
+
 
 /*  */
 
@@ -256,6 +267,7 @@ button a {
 
 
 </style>
+<script src="..//login/java.java"></script>
 
 <main>
 <section class="intro">
@@ -342,11 +354,11 @@ button a {
         
         
     </section>
-    <!-- <div>
-            <button id="back-to-top" title="Back to Top">
-                <i class="one">Back To Top</i>
-            </button>
-        </div> -->
+    <div class="up-arrow">
+        <a href="#" class="down">
+            <i class="bx bx-up-arrow-alt">↑</i>
+        </a>
+    </div>
         
 </main>
 

@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reservation Table</title>
     <style>
+body {
+    background: wheat;
+}
 h2,
 p {
     text-align: center;

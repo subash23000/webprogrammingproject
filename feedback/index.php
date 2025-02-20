@@ -22,11 +22,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>feedback table</title>
     <style>
+        body {
+            background: wheat;
+        }
         section {
             width: 50%;
             margin: auto;
             padding: 20px;
-            background: wheat;
+            background: white;
             border-radius: 8px;
             text-align: center;
             margin-top: 15%;
