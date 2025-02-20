@@ -119,6 +119,7 @@ button a {
 }
 .locations {
     text-align: center;
+    margin-top: 10%;
 }
 .locations img {
     width: 250px;
