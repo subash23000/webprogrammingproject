@@ -7,7 +7,7 @@
 
 - Below, you will find an example to help you get started. Feel free to customise it to match your specific requirements and needs.
 
-# Project Name - Team Number
+# Project Name - Cafe Website (Group 19)
 
 A brief description of your web development project.
 
@@ -23,37 +23,31 @@ A brief description of your web development project.
 
 In this section, list and describe the features or functionality that you are working on. You can use checkboxes to track the progress of each feature.
 
-- [ ] Feature 1 (Full Name): Title of the feature. 
-- [ ] Feature 2 (Full Name): Title of the feature.
-- [ ] Feature 3 (Full Name): Title of the feature.
+- [ Login] Feature 1
+- [Order Management ] Feature 2 
+- [ Reservation System] Feature 3 
+- [ Feedback System ] Feature 3
 
 > Add features as required. 
 
 ### Feature 1
 
-Include more detailed information about Feature 1 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+This feature allows users to securely log into the system. The system will store user credentials and validate them during the login process.
 
 ### Feature 2
 
-Include more detailed information about Feature 2 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+The order management feature enables users to place orders and view order history. Admin users can update order statuses and manage items in the order.
 
 ### Feature 3
 
-Include more detailed information about Feature 3 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+This feature allows customers to reserve tables for specific dates and times. The system tracks available slots and stores reservation details.
+
+### Feature 3
+
+After a visit, customers can submit feedback about their experience. This helps the business understand customer satisfaction and identify areas for improvement.
 
 ---
 
-## Database Tables
-
-List the database tables that are part of your project. 
-
-- Table 1 (Created By): Table Name 
-- Table 2 (Created By): Table Name 
-- Table 3 (Created By): Table Name 
-
-> Include the ER Diagram of the database. 
-
----
 
 ## Created Forms
 
