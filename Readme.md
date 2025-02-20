@@ -42,7 +42,7 @@ The order management feature enables users to place orders and view order histor
 
 This feature allows customers to reserve tables for specific dates and times. The system tracks available slots and stores reservation details.
 
-### Feature 3
+### Feature 4
 
 After a visit, customers can submit feedback about their experience. This helps the business understand customer satisfaction and identify areas for improvement.
 
