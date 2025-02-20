@@ -13,7 +13,6 @@ footer a {
 footer .social-icons img {
     width: 30px;
     margin: 0 10px;
-/*  */
 
 
 

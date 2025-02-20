@@ -267,7 +267,6 @@ button a {
 
 
 </style>
-<script src="..//login/java.java"></script>
 
 <main>
 <section class="intro">

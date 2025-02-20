@@ -167,7 +167,11 @@ button a {
 }
 
 </style>
-<script src="java.java"></script>
+<script>
+    document.getElementById("myButton").onclick =function() {
+        alert("Button was clicked!");
+    };
+</script>
 
 <main>
 <section class="intro">
@@ -216,7 +220,7 @@ button a {
                 <p><b>€5.50</b></p>
             </div>
         </div>
-        <button class="button"><a href="login.php">See more Drinks</a></button>
+        <button id="myButton" class="button"><a href="login.php">See more Drinks</a></button>
     </section>
     <section class="locations" id="locations">
         <h2>LOCATIONS</h2>
