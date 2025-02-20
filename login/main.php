@@ -46,6 +46,16 @@ include 'header.php';
 }
 button a {
     text-decoration: none;
+    background: #ff8800;
+}
+.button {
+    display: inline-block;
+    background-color: #ff8800;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
 }
 
 
@@ -67,43 +77,7 @@ button a {
     padding: 8px 12px;
     border-radius: 5px;
 }
-.feedback {
-    text-align: center;
-    padding: 50px 20px;
-    background: white;
-}
-.feedback h2 {
-    color: #ff8800;
-    font-size: 2.5rem;
-    margin-bottom: 10px;
-}
-.feedback p {
-    font-size: 1.2rem;
-    margin-bottom: 20px;
-    color: gray;
-}
-.feedback form {
-    max-width: 600px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
 
-}
-.feedback-button {
-    display: inline-block;
-    background: #ff8800;
-    color: #fff;
-    border: none;
-    padding: 15px 30px;
-    font-size: 1rem;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.feedback-button:hover {
-    background-color: black;
-    color: white;
-}
 .reviews {
     text-align: center;
     background: #fff3e0;

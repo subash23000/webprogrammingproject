@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             width: 50%;
             margin: auto;
             padding: 20px;
-            background: #f9f9f9;
+            background: wheat;
             border-radius: 8px;
             text-align: center;
             margin-top: 15%;
@@ -43,18 +43,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             display: flex;
             flex-direction: column;
             gap: 15px;
-            /* margin-top: 10%; */
+            margin-right: 10%;
+            margin-left: 10%;
         }
-        input,
-        textarea {
+        input {
             width: 100%;
             padding: 10px;
             border: 1px solid black;
             font-size: 16px;
         }
-        textarea {
-            height: 100px;
-        }
+      
         button {
             padding: 10px;
             font-size: 16px;
@@ -62,7 +60,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             border-radius: 5px;
             cursor: pointer;
         }
-        .feedback-button{
+        button a {
+            color: white;
+            text-decoration: none;
+        }
+        .feedback-button,
+        button{
             background: #007bff;
             color: white;
         }
@@ -73,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <section>
         <h2>We Value Your Feedback</h2>
         <p>Let us know how we can improve your experience.</p>
-        <form action="" method="post">
+        <form action="#" method="post">
             <div>
                 <input type="text" name="name" placeholder="Your Name" required>
             </div>
