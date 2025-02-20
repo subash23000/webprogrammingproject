@@ -26,11 +26,14 @@ h2 {
     text-align: center;
     margin-top: 5%;
 }
+body {
+    background: wheat;
+}
 form{
     max-width: 400px;
     margin: 20px auto;
     padding: 20px;
-    background: #ccc;
+    background: white;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
