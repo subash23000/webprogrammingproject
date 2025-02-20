@@ -95,5 +95,5 @@ body {
     <input type="text" name="username" required placeholder="Username">
     <input type="password" name="password" required placeholder="Password">
     <button type="submit">Login</button>
-    <button type="submit"><a href="#"></a>Register</button>
+    <button type="submit"><a href="../login/register.php">Register</a></button>
 </form>

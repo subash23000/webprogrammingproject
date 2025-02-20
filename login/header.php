@@ -89,7 +89,7 @@ nav ul li a:active {
                 <li><a href="#location">LOCATION</a></li>
                 <li><a href="#review">REVIEW</a></li>
                 <li><a href="#contact">CONTACT</a></li>
-                <li><a href="#">LOGIN</a></li>
+                <li><a href="login.php">LOGIN</a></li>
             </ul>
         </nav>
     </header>
