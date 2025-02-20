@@ -48,71 +48,7 @@ button a {
     text-decoration: none;
 }
 
-.order,
-.reservation-form {
-    text-align: center;
-    padding: 50px 20px;
-    background: white;
-    border-top: 5px solid #ff8800;
-}
-.order h2,
-.reservation-form h2 {
-    color: #ff8800;
-    font-size: 2rem;
-    margin-bottom: 10px;
-}
-.order p,
-.reservation-form p {
-    font-size: 1.2rem;
-    color: gray;
-    margin-bottom: 30px;
-}
-.order form,
-.reservation-form {
-    max-width: 600px;
-    margin: 0 auto;
-    background-color: #fff;
-    padding: 30px;
-    border-radius: 10px;
-}
-.form-group {
-    margin-bottom: 20px;
-    text-align: left;
-}
-.form-group label {
-    font-size: 1rem;
-    color: black;
-    display: block;
-    margin-bottom: 5px;
-}
-.form-group input,
-.form-group textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 1rem;
-    border: 1px solid grey;
-    border-radius: 5px;
-}
-.order-button,
-.button,
-.reserve-button {
-    display: inline-block;
-    background-color: #ff8800;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: 0.3s;
-}
-.menu .button {
-    text-decoration: none;
-}
-.order-button:hover{
-    background-color: black;
-    color: white;
-}
+
 .locations {
     text-align: center;
 }

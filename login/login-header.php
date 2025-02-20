@@ -80,6 +80,7 @@ nav ul li a:active {
 </head>
 <body><header> 
         <h2>Welcome, <?php echo $_SESSION['username']; ?>!</h2>
+
         <div class="logo">
             <img src="..//images/logo2.png" alt="Himalayan Cafe Logo">
         </div>

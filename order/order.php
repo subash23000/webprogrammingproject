@@ -78,7 +78,7 @@ button:hover {
     <input type="text" name="name" required placeholder="Your Name">
     <input type="email" name="email" required placeholder="Your Email">
     <input type="text" name="phone" required placeholder="Your Phone">
-    <input type="text" name="items" required placeholder="Order Items">
+    <input type="text" name="items" required placeholder="Name of Order Item">
     <input type="text" name="location" required placeholder="Delivery Location">
     <input type="number" name="quantity" required placeholder="Quantity">
     
